@@ -4,7 +4,5 @@
 
 ## :email: Contatos:
 <div>
-<a href="https://www.linkedin.com/in/deise-santana-de-souza-lobo-3b004647/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" target="_blank"></a>   
-</div>
-<a href="https://www.linkedin.com/in/deise-santana-de-souza-lobo-3b004647/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/deise-santana-de-souza-lobo-3b004647/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="60" height="60" target="_blank"></a><a href="https://www.linkedin.com/in/deise-santana-de-souza-lobo-3b004647/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="60" height="60" target="_blank"></a>   
 </div>
